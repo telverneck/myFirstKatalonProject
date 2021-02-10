@@ -10,6 +10,14 @@
          <value>//div[@id='search']/span/div/span/h1/div/div/div/div</value>
       </entry>
       <entry>
+         <key>BASIC</key>
+         <value>//*[(text() = '
+1-16 of over 60,000 results for &quot;ps4&quot;
+' or . = '
+1-16 of over 60,000 results for &quot;ps4&quot;
+')]</value>
+      </entry>
+      <entry>
          <key>CSS</key>
          <value>div.a-section.a-spacing-small.a-spacing-top-small</value>
       </entry>
